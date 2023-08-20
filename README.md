@@ -1,5 +1,8 @@
 # E-Waste_Mng
+
 An online website that allows people to sell their waste electronic products to our organization for proper recycling and disposal. It provides facility for the users to select various options like the brand, model, and year of manufacturing to estimate their product value and sell.
+
+## Table of Contents
 
 - [Project Overview]
 - [Features]
