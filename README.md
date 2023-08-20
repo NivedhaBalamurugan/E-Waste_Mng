@@ -26,7 +26,7 @@ The E-Waste Management Website is a web application designed to help users to se
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
 3. Install the required dependencies. 
-4. Set up your database and environment variables according to the configuration in `.env.example`.
+4. Set up your database and environment variables according to the configuration.
 5. Run the application:
 6. Open your web browser and go to `http://localhost:3000` to access the website.
 
